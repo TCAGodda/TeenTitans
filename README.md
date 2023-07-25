@@ -1,10 +1,11 @@
 # Teen Titans Coder of Godda
-Coding Lessons for Class 6-9 
+
 
 # Course Details 
-| Title | Value | 
+| Course Title | Coding Lessons | 
 |--------|----------|
 |Instructor | [Sanjeev Stephan Murmu](https://github.com/SanjeevStephan) | 
+|  For Class |  6-9 | 
 | Hour Per Lesson | 1 Hour | 
 | Place | Godda | 
 
