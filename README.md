@@ -1,7 +1,7 @@
 # Teen Titans Coder of Godda
 
 
-# Course Details 
+## Course Details 
 | Course Title | Coding Lessons | 
 |--------|----------|
 |Instructor | [Sanjeev Stephan Murmu](https://github.com/SanjeevStephan) | 
@@ -10,9 +10,9 @@
 | Place | Godda | 
 
 
-# Coding Roadmap
+## Coding Roadmap
 
-## First Month : Scratch & Arduino
+### First Month : Scratch & Arduino
 
 | Day    | Lessons | Reference | 
 |--------|----------|----------|
@@ -25,7 +25,7 @@
 | Day 7  |  Computer Programming  ? | - |
 | Day 8  |  Computer Programming  ? | - |
 
-## Second Month : Web-Development ( HTML | CSS | JS )
+### Second Month : Web-Development ( HTML | CSS | JS )
 | Day    | Lessons | Reference | 
 |--------|----------|----------|
 | Day 1  | Introduction to Computer Programming ? | - |
@@ -37,7 +37,7 @@
 | Day 7  |  Computer Programming  ? | - |
 | Day 8  |  Computer Programming  ? | - |
 
-## Third Month : Python Programming
+### Third Month : Python Programming
 | Day    | Lessons | Reference | 
 |--------|----------|----------|
 | Day 1  | Introduction to Computer Programming ? | - |
